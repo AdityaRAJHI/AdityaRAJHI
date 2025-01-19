@@ -1,5 +1,3 @@
-Huggingface modelcard
-https://www.kaggle.com/rajkumarsinha
 <h1 align="center">Hi 👋, I'm Raj Kumar Sinha</h1>
 <h3 align="center">Deeplearning.ai @Kaggler</h3>
 
