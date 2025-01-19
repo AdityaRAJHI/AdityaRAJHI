@@ -10,7 +10,9 @@ https://www.kaggle.com/rajkumarsinha
 </p>
 
 
-- 🌱 I’m currently learning **Automation Framework**
+- 🌱 I’m currently learning **DS Daily**
+
+- @poorgpu-Huggingface modelcard [https://www.kaggle.com/rajkumarsinha]
 
 - 🏢 Currently working at [https://www.qspiders.com]
 
