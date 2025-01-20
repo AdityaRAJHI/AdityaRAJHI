@@ -1,16 +1,9 @@
 <h1 align="center">Hi 👋, I'm Raj Kumar Sinha</h1>
 <h3 align="center">Deeplearning.ai @Kaggler</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=katejay&label=Profile%20views&color=0e75b6&style=flat" alt="katejay" /> </p>
-
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katejay" alt="katejay" /></a>
-</p>
-
-
 - 🌱 I’m currently learning **DS Daily**
 
-- @poorgpu-Huggingface modelcard [https://www.kaggle.com/rajkumarsinha]
+- @poorgpu-Huggingface modelcard [https://www.kaggle.com/rajkumarsinha , https://huggingface.co/rajkr]
 
 - 🏢 Currently working at [https://www.qspiders.com]
 
